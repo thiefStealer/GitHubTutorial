@@ -3,11 +3,8 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Aa]ssets/Test/
-<<<<<<< HEAD
 
 
-=======
->>>>>>> parent of 30cfd2a (Revert "111")
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
